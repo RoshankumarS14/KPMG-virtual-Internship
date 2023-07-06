@@ -19,8 +19,8 @@ Feel free to explore each task folder for more details, including the code imple
 ## 🗂️ Repository Structure
 
 - `KPMG task-1.docx`: Contains the code, documentation, and data files related to the Data Quality Assessment task.
-- `KPMG task-2.docx`: Contains the code, documentation, and visualizations related to the Data Insights task.
-- `KPMG task-3.docx`: Contains the presentation slides and any supporting files for the Data Presentation task.
+- `KPMG task-2.pptx`: Contains the code, documentation, and visualizations related to the Data Insights task.
+- `KPMG task-3.pdf`: Contains the presentation slides and any supporting files for the Data Presentation task.
 
 Please note that the specific details and files within each task folder are subject to the confidentiality agreement and guidelines set by KPMG.
 
