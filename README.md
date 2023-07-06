@@ -18,15 +18,10 @@ Feel free to explore each task folder for more details, including the code imple
 
 ## 🗂️ Repository Structure
 
-- `Task1_Data_Quality_Assessment/`: Contains the code, documentation, and data files related to the Data Quality Assessment task.
-- `Task2_Data_Insights/`: Contains the code, documentation, and visualizations related to the Data Insights task.
-- `Task3_Data_Presentation/`: Contains the presentation slides and any supporting files for the Data Presentation task.
+- `KPMG task-1.docx`: Contains the code, documentation, and data files related to the Data Quality Assessment task.
+- `KPMG task-2.docx`: Contains the code, documentation, and visualizations related to the Data Insights task.
+- `KPMG task-3.docx`: Contains the presentation slides and any supporting files for the Data Presentation task.
 
 Please note that the specific details and files within each task folder are subject to the confidentiality agreement and guidelines set by KPMG.
 
-## 📧 Contact
-
-If you have any questions, feedback, or suggestions, please feel free to reach out to me at [email protected]
-
 Thank you for visiting my repository and reviewing my internship tasks! 🚀📊
-
